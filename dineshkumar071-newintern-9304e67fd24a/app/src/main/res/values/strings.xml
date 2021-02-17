@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecycleViewer</string>
+    <string name="Name_of_the_app">Name of the app</string>
+    <string name="Description">Description (Max of teo lines\n should shown here)</string>
+    <string name="Category">Category</string>
+    <string name="Des">Description</string>
+    <string name="Size">Size</string>
+    <string name="Submit">Submit</string>
+    <string name="et1">enter the app name</string>
+    <string name="et2">enter the description</string>
+    <string name="et3">enter the category</string>
+    <string name="app_updated">This app is already updated</string>
+    <string name="et4">enter the size</string>
+    <string-array name="categories">
+        <item>books</item>
+        <item>music</item>
+        <item>games</item>
+    </string-array>
+    <string name="Update">Update</string>
+</resources>
